@@ -56,3 +56,5 @@ Configuração utilizada na versão 1.0:
 ```bash
 git clone https://github.com/Marco-Antonio-Springer/backtest-medias-moveis.git
 cd backtest-medias-moveis
+
+Projeto desenvolvido para fins educacionais.
