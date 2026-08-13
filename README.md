@@ -57,4 +57,4 @@ Configuração utilizada na versão 1.0:
 git clone https://github.com/Marco-Antonio-Springer/backtest-medias-moveis.git
 cd backtest-medias-moveis
 
-Projeto desenvolvido para fins educacionais.
+Projeto desenvolvido para fins educacionais somente.
